@@ -1,4 +1,4 @@
-🚁 AeroFold — Portable Carbon-Frame Quadcopter
+# 🚁 AeroFold — Portable Carbon-Frame Quadcopter
 
 Foldable • Lightweight • Arduino-Driven • Budget-Optimized
 
@@ -21,15 +21,13 @@ This repo hosts:
 
 ---
 
-🔗 Live Preview
-
-(After you enable GitHub Pages)
-👉 https://your-username.github.io/your-repo-name/
+## 🔗 Live Preview
+👉 https://your-SHADOW-04.github.io/DRONE-PROJECT/
 
 
 ---
 
-✨ Project Overview
+## ✨ Project Overview
 
 AeroFold aims to be:
 
@@ -47,7 +45,7 @@ Beginner-safe: Bench-tested firmware scaffolding, easy to extend
 
 ---
 
-📦 Bill of Materials (BOM)
+## 📦 Bill of Materials (BOM)
 
 Component	Details
 
@@ -66,7 +64,7 @@ Tools	Soldering kit, multimeter, hex drivers
 
 ---
 
-⚡ Wiring Summary
+## ⚡ Wiring Summary
 
 Battery (XT60) → PDB
 ESC power → PDB
@@ -90,7 +88,7 @@ Always program & test with props removed.
 
 ---
 
-🧠 Flight Mixing Logic
+## 🧠 Flight Mixing Logic
 
 The quad uses standard X-layout mixing:
 
@@ -152,7 +150,7 @@ void loop() {
 
 ---
 
-🧪 Build Steps
+## 🧪 Build Steps
 
 1. Assemble the frame and mount all motors
 
@@ -182,24 +180,7 @@ void loop() {
 
 ---
 
-🖼️ Gallery
-
-Place your drone photos here (stored in /assets/images/):
-
-/assets/images
-   ├── drone-top.jpg
-   ├── drone-side.jpg
-   ├── wiring-closeup.jpg
-   ├── bench-test.jpg
-
-Add them in markdown like:
-
-![AeroFold Top View](assets/images/drone-top.jpg)
-
-
----
-
-🌐 Website Structure
+## 🌐 Website Structure
 
 /
 ├── index.html
@@ -215,16 +196,14 @@ Add them in markdown like:
 
 ---
 
-🧾 Status
+## 🧾 Status
 
-> 🚧 Prototype — Wiring complete, firmware in progress, IMU not mounted yet.
-
-
+> 🚧 Prototype — Yet to assemble 
 
 
 ---
 
-📬 Contact
+## 📬 Contact
 
 Built by Your Name / GitHub Username
 Feel free to open PRs, discussions, or ideas to improve the project.
@@ -232,13 +211,13 @@ Feel free to open PRs, discussions, or ideas to improve the project.
 
 ---
 
-⚖️ License
+## ⚖️ License
 
 MIT — free to modify, fork, remix, and build on.
 
 
 ---
 
-❤️ Support
+## ❤️ Support
 
 If you like this project, consider 🌟 starring the repo on GitHub!
